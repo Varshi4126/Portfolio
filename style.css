@@ -1,0 +1,59 @@
+.hero {
+    background-color: #EEF5FF;
+    
+}
+
+.hero-text > h1{
+    font-family: "Petit Formal Script", cursive;
+    font-size: 5rem;
+    color: black;
+}
+
+.hero-text > p {
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: justify;
+}
+
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+}
+
+.edu > h2 {
+    padding-left: 20px;
+    text-align: justify;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.education {
+    background-color: #B4D4FF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:hover {
+    color: white;
+    background: darkblue;
+}
+
+.album {
+    background-color: #86B6F6;
+}
+
+.footer {
+    background-color: #176B87;
+    padding: 30px;
+}
+
+.nav {
+    background-color: #176B87;
+}
+
+.nav-item, .navbar-brand {
+    font-size: 1.2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
